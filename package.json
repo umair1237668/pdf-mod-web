@@ -1,0 +1,23 @@
+{
+  "name": "pdf-mod-web",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "13.4.12",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "pdf-lib": "^1.17.1",
+    "multiparty": "^4.2.2"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.3",
+    "postcss": "^8.4.24",
+    "autoprefixer": "^10.4.14",
+    "typescript": "^5.0.0"
+  }
+}
